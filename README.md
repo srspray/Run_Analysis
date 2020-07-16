@@ -1,2 +1,2 @@
-# Getting-and-Cleaning-Data
+# Run_Analysis
 Getting and Cleaning Data Course Project 
